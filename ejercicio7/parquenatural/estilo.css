@@ -1,0 +1,46 @@
+body {
+    margin-left: 20px;
+}
+
+.cuadrogrande {
+    background-color: #ffffff;
+    border: 8px solid #ccc9c9;
+    border-bottom: 20px solid #ccc9c9;
+    padding: 20px;
+    margin: 20px;
+}
+
+.cuadropequeño {
+    background-color: #ffffff;
+    border: 2px solid #ccc9c9;
+    padding: 20px;
+    margin: 20px;
+}
+
+.linea {
+    border-bottom: 2px solid rgb(173, 223, 163);
+}
+
+.verde {color: rgb(16, 129, 16); }
+.naranja {color: rgb(209, 126, 16);}
+
+h1, h2, h3, p {
+    font-family: 'Lucida Sans Unicode';
+}
+
+h1 {
+    letter-spacing: 20px;
+    word-spacing: 10px;
+    text-align: center
+}
+
+h2 {
+    color: rgb(121, 207, 51);
+    position: relative;
+    height: 12px;
+}
+
+h3 {
+    color: rgb(209, 126, 16);
+}
+
